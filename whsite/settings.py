@@ -25,7 +25,7 @@ SECRET_KEY = 'e0dv57-&p#0&6!pm3=09nkl+1r)a(2m-l7(et3)uwqr#^h4rzl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1’, ‘cablemovement.pythonanywhere.com’]
 
 
 # Application definition
